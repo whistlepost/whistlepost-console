@@ -1,0 +1,8 @@
+Sling-Initial-Content: SLING-INF/content;path:=/;overwrite:=false
+Sling-Bundle-Resources: /assets/wp-content;path:=/assets
+Automatic-Module-Name: org.whistlepost.console
+Bundle-Name: Whistlepost Console Application
+Bundle-Description: Configuration of Whistlepost resources
+Bundle-SymbolicName: org.whistlepost.console
+Bundle-Category: whistlepost
+Bundle-Version: ${project.version}
