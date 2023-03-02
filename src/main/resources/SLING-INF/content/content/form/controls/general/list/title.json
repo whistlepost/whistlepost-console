@@ -1,0 +1,8 @@
+{
+  "id": "titleField",
+  "name": "title",
+  "labelKey": "title",
+  "sling:resourceType": "wp/component/form/textfield",
+  "sling:configRef": "/libs/conf/wp/form/textfield/name",
+  "required": true
+}

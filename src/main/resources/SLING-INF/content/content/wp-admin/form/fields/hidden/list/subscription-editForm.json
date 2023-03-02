@@ -1,0 +1,6 @@
+{
+  "id": "hEditForm",
+  "name": "form",
+  "value": "/content/form/subscription/edit",
+  "sling:resourceType": "wp/component/form/hidden"
+}

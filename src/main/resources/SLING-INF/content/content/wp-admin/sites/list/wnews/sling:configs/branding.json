@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wp/template/branding",
+  "image": "/assets/wp-content/images/masthead.png",
+  "logo": "/assets/wp-content/images/logo-60.png",
+  "alttext": "Waranga News",
+  "favicon": "/assets/images/wp-content/favicon.ico"
+}

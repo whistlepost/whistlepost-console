@@ -1,0 +1,6 @@
+{
+  "title": "AndroidAuthority",
+  "url": "http://www.androidauthority.com",
+  "feedUrl": "http://feed.androidauthority.com/",
+  "sling:resourceType": "wp/template/subscription"
+}

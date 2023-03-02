@@ -1,0 +1,10 @@
+{
+  "title": "Slashdot.org",
+  "url": "https://slashdot.org",
+  "feedUrl": "http://rss.slashdot.org/Slashdot/slashdotMain",
+  "sling:resourceType": "wp/template/subscription",
+  "form": "/content/subscriptions/edit-subscription",
+  "layout": "/content/layout",
+  "branding": "/content/branding",
+  "legal": "/content/legal"
+}

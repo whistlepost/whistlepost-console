@@ -1,0 +1,6 @@
+{
+  "title": "Song Exploder",
+  "url": "http://songexploder.net",
+  "feedUrl": "http://songexploder.net/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

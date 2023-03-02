@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wp/page/folder",
+  "title": "Edit Subscription",
+  "titleKey": "subscriptionEdit",
+  "method": "POST",
+  "fields": [
+    "/content/form/controls/general/list/title",
+    "/content/form/controls/button/list/submit",
+    "/content/form/controls/link/list/cancel"
+  ]
+}

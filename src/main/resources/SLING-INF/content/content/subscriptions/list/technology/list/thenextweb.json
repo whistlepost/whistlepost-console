@@ -1,0 +1,6 @@
+{
+  "title": "The Next Web",
+  "url": "https://thenextweb.com",
+  "feedUrl": "https://thenextweb.com/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

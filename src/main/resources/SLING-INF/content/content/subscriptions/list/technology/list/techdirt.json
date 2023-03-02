@@ -1,0 +1,10 @@
+{
+  "title": "Techdirt",
+  "url": "https://www.techdirt.com/",
+  "feedUrl": "http://feeds.feedburner.com/techdirt/feed",
+  "sling:resourceType": "wp/template/subscription",
+  "form": "/content/subscriptions/edit-subscription",
+  "layout": "/content/layout",
+  "branding": "/content/branding",
+  "legal": "/content/legal"
+}

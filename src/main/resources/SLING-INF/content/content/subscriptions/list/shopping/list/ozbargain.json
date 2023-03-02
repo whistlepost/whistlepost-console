@@ -1,0 +1,6 @@
+{
+  "title": "OzBargain",
+  "url": "https://www.ozbargain.com.au",
+  "feedUrl": "https://www.ozbargain.com.au/deals/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

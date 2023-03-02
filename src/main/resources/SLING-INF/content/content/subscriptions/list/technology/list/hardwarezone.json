@@ -1,0 +1,6 @@
+{
+  "title": "HardwareZone.com",
+  "url": "https://www.hardwarezone.com.sg",
+  "feedUrl": "https://feeds.feedburner.com/hardwarezone/news",
+  "sling:resourceType": "wp/template/subscription"
+}

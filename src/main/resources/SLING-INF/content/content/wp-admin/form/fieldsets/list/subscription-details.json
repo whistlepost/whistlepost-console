@@ -1,0 +1,8 @@
+{
+  "legend": "Subscription Details",
+  "fields": [
+    "/content/form/controls/general/list/title",
+    "/content/form/controls/subscription/list/url",
+    "/content/form/controls/subscription/list/feedUrl"
+  ]
+}

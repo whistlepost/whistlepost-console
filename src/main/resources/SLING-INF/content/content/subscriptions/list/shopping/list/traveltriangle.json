@@ -1,0 +1,6 @@
+{
+  "title": "Travel Triangle - Shopping",
+  "url": "https://traveltriangle.com/blog/shopping",
+  "feedUrl": "https://traveltriangle.com/blog/shopping/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,13 @@
+{
+  "sling:resourceType": "wp/page/form/add",
+  "title": "Add Form",
+  "titleKey": "formAdd",
+  "method": "POST",
+  "action": "/content/wp-admin/forms/list/*",
+  "fields": [
+    "/content/wp-admin/forms/common/controls/list/title",
+
+    "/content/wp-admin/forms/action/controls/list/submitButton",
+    "/content/wp-admin/forms/action/controls/list/cancelLink"
+  ]
+}

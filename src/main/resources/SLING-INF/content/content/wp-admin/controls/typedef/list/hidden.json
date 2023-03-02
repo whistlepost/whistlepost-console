@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wp/page/control",
+  "fields": [
+    "/content/wp-admin/forms/common/controls/list/name",
+    "/content/wp-admin/forms/common/controls/list/value"
+  ]
+}

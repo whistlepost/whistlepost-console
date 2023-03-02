@@ -1,0 +1,8 @@
+{
+  "title": "Layout",
+  "header": "/content/wnews/branding",
+  "sidebar": "",
+  "footer": "/content/wnews/legal",
+  "navigation": "/content/wnews/navigation",
+  "sling:resourceType": "wp/layout"
+}

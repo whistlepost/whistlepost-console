@@ -1,0 +1,21 @@
+{
+  "sling:resourceType": "wp/page/form",
+  "title": "Edit Subscription",
+  "titleKey": "subscriptionEdit",
+  "fieldSets": [
+    "/content/wp-admin/form/fieldsets/list/subscription-details",
+    "/content/wp-admin/form/fieldsets/list/submit-cancel"
+  ],
+  "input": {
+    "sling:resourceType": "sling/validation/model",
+    "validatingResourceType": "",
+    "applicablePaths": [],
+    "properties": {
+      "title": {},
+      "url": {},
+      "feedUrl": {}
+    },
+    "children": {}
+  },
+  "sling:configRef": "/libs/conf/wp/form"
+}

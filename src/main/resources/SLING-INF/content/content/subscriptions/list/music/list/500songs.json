@@ -1,0 +1,6 @@
+{
+  "title": "A History of Rock Music in 500 Songs",
+  "url": "https://500songs.com",
+  "feedUrl": "https://500songs.com/feed/podcast",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "sling:resourceType",
+  "sling:resourceType": "wp/component/form/hidden",
+  "sling:configRef": "/libs/conf/wp/form/hidden/resourceType/folder"
+}

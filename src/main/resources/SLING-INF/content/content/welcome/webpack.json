@@ -1,0 +1,14 @@
+{
+  "title":"Webpack",
+  "description": "Using Webpack with Whistlepost",
+  "sling:resourceType":"wp/template/page",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "pars": [
+        ""
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title":"Analytics",
+  "description": "Whistlepost Analytics",
+  "sling:resourceType":"wp/template/page",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "pars": [
+        "Support for page tracking and analytics."
+      ]
+    }
+  }
+}

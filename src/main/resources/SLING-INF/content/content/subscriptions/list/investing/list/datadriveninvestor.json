@@ -1,0 +1,6 @@
+{
+  "title": "DataDrivenInvestor",
+  "url": "https://www.datadriveninvestor.com",
+  "feedUrl": "https://www.datadriveninvestor.com/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

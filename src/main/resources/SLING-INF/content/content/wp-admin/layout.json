@@ -1,0 +1,7 @@
+{
+  "header": "content/branding",
+  "sidebar": "",
+  "footer": "content/legal",
+  "navigation": "content/navigation",
+  "sling:resourceType": "wp/layout"
+}

@@ -1,0 +1,5 @@
+{
+  "sling:resourceType": "wp/component/form/reference",
+  "name": "sidebar",
+  "valueKey": "sidebar"
+}

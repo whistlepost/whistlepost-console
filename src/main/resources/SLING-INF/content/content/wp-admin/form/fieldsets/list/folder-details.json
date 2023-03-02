@@ -1,0 +1,7 @@
+{
+  "legend": "Folder Details",
+  "fields": [
+    "/content/form/controls/general/list/title",
+    "/content/wp-admin/form/fields/select/list/folderType"
+  ]
+}

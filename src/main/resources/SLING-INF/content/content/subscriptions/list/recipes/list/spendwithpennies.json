@@ -1,0 +1,6 @@
+{
+  "title": "Spend With Pennies",
+  "url": "https://www.spendwithpennies.com",
+  "feedUrl": "https://www.spendwithpennies.com/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

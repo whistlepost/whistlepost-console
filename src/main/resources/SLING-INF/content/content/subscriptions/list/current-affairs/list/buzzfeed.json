@@ -1,0 +1,7 @@
+{
+  "title": "BBC News",
+  "url": "https://www.buzzfeednews.com/section/world",
+  "feedUrl": "https://www.buzzfeed.com/world.xml",
+  "sling:resourceType": "wp/template/subscription",
+  "form": "/content/form/subscription/edit"
+}

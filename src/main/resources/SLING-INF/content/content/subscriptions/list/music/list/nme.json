@@ -1,0 +1,6 @@
+{
+  "title": "NME",
+  "url": "https://www.nme.com",
+  "feedUrl": "https://www.nme.com/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

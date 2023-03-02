@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wp/component/form/cancel",
+  "id": "cancel",
+  "name": ":cancel",
+  "valueKey": "cancel",
+  "target": "/content/wp-admin/index"
+}

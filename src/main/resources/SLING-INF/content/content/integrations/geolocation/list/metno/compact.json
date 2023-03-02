@@ -1,0 +1,4 @@
+{
+  "title": "Compact Info",
+  "path": "/compact?lat=${latitude}&lon=${longitude}"
+}

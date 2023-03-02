@@ -1,0 +1,6 @@
+{
+  "title": "NPR Tiny Desk Concerts",
+  "url": "https://www.npr.org/series/tiny-desk-concerts/",
+  "feedUrl": "https://feeds.npr.org/510306/podcast.xml",
+  "sling:resourceType": "wp/template/subscription"
+}

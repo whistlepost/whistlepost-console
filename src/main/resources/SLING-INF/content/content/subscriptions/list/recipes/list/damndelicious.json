@@ -1,0 +1,6 @@
+{
+  "title": "Damn Delicious",
+  "url": "https://damndelicious.net",
+  "feedUrl": "https://damndelicious.net/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

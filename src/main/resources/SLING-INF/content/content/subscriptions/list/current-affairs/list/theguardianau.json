@@ -1,0 +1,16 @@
+{
+  "title": "The Guardian - Australia",
+  "url": "https://www.theguardian.com/au",
+  "feedUrl": "https://www.theguardian.com/au/rss",
+  "sling:resourceType": "wp/template/subscription",
+  "edit": {
+    "title": "Edit",
+    "sling:resourceType": "wp/page/Edit",
+    "sling:configRef": "/libs/conf/wp/form/edit/subscription"
+  },
+  "delete": {
+    "title": "Delete",
+    "sling:resourceType": "wp/page/Delete",
+    "sling:configRef": "/libs/conf/wp/form/delete/subscription"
+  }
+}

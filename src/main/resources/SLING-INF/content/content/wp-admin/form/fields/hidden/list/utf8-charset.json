@@ -1,0 +1,6 @@
+{
+  "id": "hCharset",
+  "name": "_charset_",
+  "value": "UTF-8",
+  "sling:resourceType": "wp/component/form/hidden"
+}

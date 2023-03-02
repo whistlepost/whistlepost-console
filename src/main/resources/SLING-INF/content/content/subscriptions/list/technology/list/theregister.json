@@ -1,0 +1,6 @@
+{
+  "title": "The Register",
+  "url": "https://www.theregister.com",
+  "feedUrl": "https://www.theregister.com/headlines.atom",
+  "sling:resourceType": "wp/template/subscription"
+}

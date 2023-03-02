@@ -1,0 +1,7 @@
+{
+  "id": "tfCity",
+  "name": "city",
+  "labelKey": "city",
+  "sling:resourceType": "wp/component/form/textfield",
+  "sling:configRef": "/libs/conf/wp/form/textfield/city"
+}

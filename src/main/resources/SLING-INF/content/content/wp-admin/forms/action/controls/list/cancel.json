@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wp/component/form/button",
+  "id": "cancel",
+  "name": ":cancel",
+  "valueKey": "cancel",
+  "onClick": "http://example.com"
+}

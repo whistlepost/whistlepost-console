@@ -1,0 +1,6 @@
+{
+  "title": "Computerworld Australia",
+  "url": "https://www.computerworld.com/au",
+  "feedUrl": "https://www.computerworld.com/au/index.rss",
+  "sling:resourceType": "wp/template/subscription"
+}

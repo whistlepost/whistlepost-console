@@ -1,0 +1,11 @@
+{
+  "title": "Edit Folder",
+  "titleKey": "folderEdit",
+  "fieldSets": [
+    "/content/wp-admin/form/fieldsets/list/folder-details",
+    "/content/wp-admin/form/fieldsets/list/submit-cancel"
+  ],
+  "submitValueKey": "categoryUpdate",
+  "sling:resourceType": "wp/page/form",
+  "sling:configRef": "/libs/conf/wp/form"
+}

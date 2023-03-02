@@ -1,0 +1,24 @@
+{
+  "sling:resourceType": "wp/template/folder",
+  "title": "Current Affairs",
+  "edit": {
+    "title": "Edit - Current Affairs",
+    "sling:resourceType": "wp/page/Edit",
+    "sling:configRef": "/libs/conf/wp/form/edit/folder"
+  },
+  "addFolder": {
+    "title": "Add Folder - Current Affairs",
+    "sling:resourceType": "wp/page/Add",
+    "sling:configRef": "/libs/conf/wp/form/add/folder"
+  },
+  "addSubscription": {
+    "title": "Add Subscription - Current Affairs",
+    "sling:resourceType": "wp/page/Add",
+    "sling:configRef": "/libs/conf/wp/form/add/subscription"
+  },
+  "delete": {
+    "title": "Delete - Current Affairs",
+    "sling:resourceType": "wp/page/Delete",
+    "sling:configRef": "/libs/conf/wp/form/delete/folder"
+  }
+}

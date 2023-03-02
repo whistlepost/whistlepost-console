@@ -1,0 +1,5 @@
+{
+  "sling:resourceType": "wp/component/form/hidden",
+  "name": "sling:resourceType",
+  "value": "wp/page/feed"
+}

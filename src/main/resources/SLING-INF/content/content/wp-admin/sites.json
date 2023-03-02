@@ -1,0 +1,5 @@
+{
+  "title": "Site Management",
+  "description": "Manage websites and applications",
+  "sling:resourceType": "wp/page/site-list"
+}

@@ -1,0 +1,13 @@
+{
+  "sling:resourceType": "wp/page/form/add",
+  "title": "Add View",
+  "titleKey": "viewAdd",
+  "method": "POST",
+  "action": "/content/wp-admin/views/list/*",
+  "fields": [
+    "/content/wp-admin/forms/common/controls/list/title",
+
+    "/content/wp-admin/forms/action/controls/list/submitButton",
+    "/content/wp-admin/forms/action/controls/list/cancelLink"
+  ]
+}

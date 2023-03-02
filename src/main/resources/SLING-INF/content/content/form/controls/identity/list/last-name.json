@@ -1,0 +1,6 @@
+{
+  "sling:resourceType": "wp/component/form/textfield",
+  "id": "lastName",
+  "labelKey": "lastName",
+  "pattern": "\\p{L}+"
+}

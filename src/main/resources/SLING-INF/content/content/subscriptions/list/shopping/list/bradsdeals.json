@@ -1,0 +1,6 @@
+{
+  "title": "Brad's Deals",
+  "url": "https://www.bradsdeals.com/blog",
+  "feedUrl": "https://www.bradsdeals.com/blog/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

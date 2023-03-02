@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wp/template/folder",
+  "title": "Games",
+  "form": "/content/form/folder/edit",
+  "layout": "/content/layout",
+  "branding": "/content/branding",
+  "legal": "/content/legal"
+}

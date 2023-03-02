@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wp/component/form/textfield",
+  "id": "feedUrlField",
+  "name": "feedUrl",
+  "labelKey": "feedUrl",
+  "sling:configRef": "/libs/conf/wp/form/textfield/url",
+  "required": true
+}

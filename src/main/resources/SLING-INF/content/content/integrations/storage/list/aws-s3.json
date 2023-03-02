@@ -1,0 +1,4 @@
+{
+  "title": "AWS S3 API",
+  "apiUrl": "https://s3.@region@.amazonaws.com"
+}

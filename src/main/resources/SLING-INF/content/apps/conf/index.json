@@ -1,0 +1,5 @@
+{
+  "title": "Whistlepost Configuration",
+  "sling:resourceType": "wp/include/markdown",
+  "body": "# Whistlepost Configuration - Overview"
+}

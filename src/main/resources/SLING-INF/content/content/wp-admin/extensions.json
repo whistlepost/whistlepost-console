@@ -1,0 +1,5 @@
+{
+  "title": "Extensions Management",
+  "description": "Manage extensions used to integrate Whistlepost with external systems",
+  "sling:resourceType": "wp/page/extension-list"
+}

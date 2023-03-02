@@ -1,0 +1,6 @@
+{
+  "title": "Nicky's Kitchen Sanctuary",
+  "url": "https://www.kitchensanctuary.com",
+  "feedUrl": "https://www.kitchensanctuary.com/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

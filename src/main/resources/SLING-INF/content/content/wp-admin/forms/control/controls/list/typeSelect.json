@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/component/form/select",
+  "labelKey": "typeSelect",
+  "options": [
+    "/content/wp-admin/controls/typedef/list/hidden",
+    "/content/wp-admin/controls/typedef/list/textfield",
+    "/content/wp-admin/controls/typedef/list/select",
+    "/content/wp-admin/controls/typedef/list/date"
+  ]
+}

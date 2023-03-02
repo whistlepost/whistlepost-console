@@ -1,0 +1,13 @@
+{
+  "title":"Groovy Markup",
+  "description": "Whistlepost Scripting - Groovy Markup",
+  "sling:resourceType":"wp/template/page",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "introduction": {
+      "pars": [
+        "Support for Groovy Templates page markup."
+      ]
+    }
+  }
+}

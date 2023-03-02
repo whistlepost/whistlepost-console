@@ -1,0 +1,6 @@
+{
+  "title": "WIRED",
+  "url": "https://www.wired.com",
+  "feedUrl": "https://www.wired.com/feed/rss",
+  "sling:resourceType": "wp/template/subscription"
+}

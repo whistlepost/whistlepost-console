@@ -1,0 +1,6 @@
+{
+  "title": "PC Gamer",
+  "url": "https://www.pcgamer.com",
+  "feedUrl": "https://www.pcgamer.com/rss/",
+  "sling:resourceType": "wp/template/subscription"
+}

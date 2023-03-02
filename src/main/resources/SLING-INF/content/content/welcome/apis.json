@@ -1,0 +1,14 @@
+{
+  "title":"APIs",
+  "description": "Managing APIs with Whistlepost",
+  "sling:resourceType":"wp/template/page",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "pars": [
+        "Designing and managing APIs can be a complex activity. Whistlepost helps to iteratively design and mock APIs based on the needs of the user interface."
+      ]
+    }
+  }
+}

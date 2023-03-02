@@ -1,0 +1,6 @@
+{
+  "title": "Space.com",
+  "url": "http://www.space.com",
+  "feedURL": "http://www.space.com/feeds/all",
+  "sling:resourceType": "wp/template/subscription"
+}

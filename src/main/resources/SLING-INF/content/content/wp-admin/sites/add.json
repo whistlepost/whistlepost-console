@@ -1,0 +1,16 @@
+{
+  "sling:resourceType": "wp/page/site/add",
+  "title": "Add Site",
+  "titleKey": "siteAdd",
+  "method": "POST",
+  "action": "/content/wp-admin/sites/list/*",
+  "fields": [
+    "/content/wp-admin/forms/site/controls/list/title",
+    "/content/wp-admin/forms/site/controls/list/layoutSelect",
+    "/content/wp-admin/forms/site/controls/list/resourceType",
+    "/content/wp-admin/forms/site/controls/list/editForm",
+
+    "/content/wp-admin/forms/action/controls/list/submitButton",
+    "/content/wp-admin/forms/action/controls/list/cancelLink"
+  ]
+}

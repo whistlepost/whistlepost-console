@@ -1,0 +1,6 @@
+{
+  "title": "InfoWorld",
+  "url": "https://www.infoworld.com",
+  "feedUrl": "https://www.infoworld.com/index.rss",
+  "sling:resourceType": "wp/template/subscription"
+}

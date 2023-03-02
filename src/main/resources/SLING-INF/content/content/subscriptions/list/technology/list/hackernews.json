@@ -1,0 +1,7 @@
+{
+  "title": "Hacker News",
+  "url": "https://news.ycombinator.com",
+  "feedUrl": "https://news.ycombinator.com/rss",
+  "sling:resourceType": "wp/template/subscription",
+  "form": "/content/subscriptions/edit-subscription"
+}

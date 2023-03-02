@@ -1,0 +1,13 @@
+{
+  "sling:resourceType": "wp/page/control/add",
+  "title": "Add Control",
+  "titleKey": "controlAdd",
+  "method": "POST",
+  "action": "/content/wp-admin/forms/list/folder/controls/list/*",
+  "fields": [
+    "/content/wp-admin/forms/control/controls/list/typeSelect",
+
+    "/content/wp-admin/forms/action/controls/list/submitButton",
+    "/content/wp-admin/forms/action/controls/list/cancelLink"
+  ]
+}

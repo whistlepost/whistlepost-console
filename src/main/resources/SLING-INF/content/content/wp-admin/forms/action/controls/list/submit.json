@@ -1,0 +1,6 @@
+{
+  "sling:resourceType": "wp/component/form/submit",
+  "id": "submit",
+  "name": ":submit",
+  "valueKey": "submit"
+}

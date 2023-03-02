@@ -1,0 +1,6 @@
+{
+  "title": "Geeks3D",
+  "url": "https://www.geeks3d.com",
+  "feedUrl": "https://www.geeks3d.com/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

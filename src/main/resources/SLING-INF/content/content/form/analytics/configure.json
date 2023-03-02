@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/component/analytics/settings",
+  "title": "Analytics Settings",
+  "titleKey": "analyticsSettings",
+  "method": "POST",
+  "fields": [
+    "/content/form/controls/button/list/submit",
+    "/content/form/controls/link/list/cancel"
+  ]
+}

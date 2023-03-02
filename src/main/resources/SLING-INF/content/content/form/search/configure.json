@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/component/search/settings",
+  "title": "Search Settings",
+  "titleKey": "searchSettings",
+  "method": "POST",
+  "fields": [
+    "/content/form/controls/button/list/submit",
+    "/content/form/controls/link/list/cancel"
+  ]
+}

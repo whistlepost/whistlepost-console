@@ -1,0 +1,6 @@
+{
+  "id": "hResourceType",
+  "name": "sling:resourceType",
+  "value": "wp/Folder",
+  "sling:resourceType": "wp/component/form/hidden"
+}

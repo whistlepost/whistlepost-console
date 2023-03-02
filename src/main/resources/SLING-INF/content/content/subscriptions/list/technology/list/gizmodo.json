@@ -1,0 +1,6 @@
+{
+  "title": "Gizmodo",
+  "url": "https://gizmodo.com",
+  "feedUrl": "https://gizmodo.com/rss",
+  "sling:resourceType": "wp/template/subscription"
+}

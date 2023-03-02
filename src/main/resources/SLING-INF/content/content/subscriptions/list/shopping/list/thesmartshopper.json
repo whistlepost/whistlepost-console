@@ -1,0 +1,6 @@
+{
+  "title": "The Smart Shopper",
+  "url": "https://www.rakuten.com/blog",
+  "feedUrl": "https://www.rakuten.com/blog/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

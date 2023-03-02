@@ -1,0 +1,6 @@
+{
+  "sling:resourceType": "wp/page/site",
+  "title": "Welcome to Whistlepost",
+  "layout": "",
+  "path": "/content/welcome"
+}

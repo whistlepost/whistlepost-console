@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/page/control",
+  "fields": [
+    "/content/wp-admin/forms/common/controls/list/id",
+    "/content/wp-admin/forms/common/controls/list/name",
+    "/content/wp-admin/forms/common/controls/list/value",
+    "/content/wp-admin/forms/common/controls/list/pattern",
+    "/content/wp-admin/forms/common/controls/list/labelKey"
+  ]
+}

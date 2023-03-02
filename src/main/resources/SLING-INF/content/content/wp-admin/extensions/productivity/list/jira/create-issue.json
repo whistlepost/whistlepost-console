@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wp/extensions/jira/create-issue",
+  "title": "Create Issue",
+  "path": "/issue",
+  "body": "{fields: {project: {key: ${project}}, issuetype: {name: ${issueType}}, summary: ${summary}, description: ${description}}}",
+  "view": "/content/wp-admin/views/productivity/list/jira/issue/${result.issueId}"
+}

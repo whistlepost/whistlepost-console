@@ -1,0 +1,5 @@
+{
+  "sling:resourceType": "wp/component/form/hidden",
+  "name": "form",
+  "value": "/content/wp-admin/forms/site/edit"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Media Management",
+  "description": "Manage media uploads including images and video",
+  "sling:resourceType": "wp/page/media-list"
+}

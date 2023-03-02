@@ -1,0 +1,6 @@
+{
+  "title": "The Minefield - Podcast",
+  "url": "https://www.abc.net.au/radionational/programs/theminefield",
+  "feedUrl": "https://www.abc.net.au/radionational/programs/theminefield/feed/6344904/podcast.xml",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "TopVouchersCode",
+  "url": "https://www.topvoucherscode.co.uk/blog",
+  "feedUrl": "https://www.topvoucherscode.co.uk/blog/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

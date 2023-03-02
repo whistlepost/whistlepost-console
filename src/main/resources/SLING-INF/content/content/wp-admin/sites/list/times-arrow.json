@@ -1,0 +1,6 @@
+{
+  "sling:resourceType": "wp/page/site",
+  "title": "Times Arrow - News from the future",
+  "layout": "news",
+  "path": "/content/times-arrow"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Lifehacker",
+  "url": "https://lifehacker.com",
+  "feedUrl": "https://lifehacker.com/rss",
+  "sling:resourceType": "wp/template/subscription"
+}

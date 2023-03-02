@@ -1,0 +1,5 @@
+{
+  "title": "License Management",
+  "description": "Manage licenses applied to site content",
+  "sling:resourceType": "wp/page/license-list"
+}

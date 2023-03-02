@@ -1,0 +1,5 @@
+{
+  "sling:resourceType": "wp/component/form/link",
+  "target": "/content/welcome/index",
+  "valueKey": "cancel"
+}

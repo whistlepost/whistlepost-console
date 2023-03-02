@@ -1,0 +1,6 @@
+{
+  "title": "Ausdroid",
+  "url": "https://ausdroid.net/",
+  "feedUrl": "http://feeds.feedburner.com/ausdroid/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,14 @@
+{
+  "sling:resourceType": "wp/page/option-list/add",
+  "title": "Add Option List",
+  "titleKey": "optionListAdd",
+  "method": "POST",
+  "action": "/content/wp-admin/controls/options/list/*",
+  "fields": [
+    "/content/wp-admin/forms/common/controls/list/name",
+    "/content/wp-admin/forms/control/controls/list/option",
+
+    "/content/wp-admin/forms/action/controls/list/submitButton",
+    "/content/wp-admin/forms/action/controls/list/cancelLink"
+  ]
+}

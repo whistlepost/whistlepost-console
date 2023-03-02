@@ -1,0 +1,5 @@
+{
+  "title": "Form Control Management",
+  "description": "Manage form control definitions used in Whistlepost forms",
+  "sling:resourceType": "wp/page/control-list"
+}

@@ -1,0 +1,7 @@
+{
+  "sling:resourceType": "wp/page/folder/add",
+  "title": "Add Folder",
+  "titleKey": "categoryAdd",
+  "action": "/content/subscriptions/list/*",
+  "form": "/content/form/folder/add"
+}

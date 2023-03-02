@@ -1,0 +1,6 @@
+{
+  "title": "List Issues",
+  "method": "GET",
+  "path": "/issue",
+  "view": "/content/wp-admin/views/productivity/list/jira/issues"
+}

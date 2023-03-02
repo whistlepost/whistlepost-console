@@ -1,0 +1,6 @@
+{
+  "title": "The Food Canon",
+  "url": "http://www.foodcanon.com",
+  "feedUrl": "http://www.foodcanon.com/feeds/posts/default?alt=rss",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "User Details",
+  "method": "GET",
+  "path": "/users/@userId@"
+}

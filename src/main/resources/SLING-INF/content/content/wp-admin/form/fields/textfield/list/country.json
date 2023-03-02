@@ -1,0 +1,7 @@
+{
+  "id": "tfCountry",
+  "name": "country",
+  "labelKey": "country",
+  "sling:resourceType": "wp/component/form/autofill",
+  "sling:configRef": "/libs/conf/wp/form/autofill/country"
+}

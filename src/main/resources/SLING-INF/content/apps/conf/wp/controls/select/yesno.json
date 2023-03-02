@@ -1,0 +1,14 @@
+{
+  "sling:configs": {
+    "options": [
+      {
+        "text": "Yes",
+        "value": "Y"
+      },
+      {
+        "text": "No",
+        "value": "N"
+      }
+    ]
+  }
+}

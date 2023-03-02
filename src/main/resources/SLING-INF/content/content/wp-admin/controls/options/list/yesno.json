@@ -1,0 +1,11 @@
+{
+  "sling:resourceType": "wp/page/option-list",
+  "optionValue": [
+    "Y",
+    "N"
+  ],
+  "optionText": [
+    "Yes",
+    "No"
+  ]
+}

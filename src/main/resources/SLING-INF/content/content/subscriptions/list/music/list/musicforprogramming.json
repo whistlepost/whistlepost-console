@@ -1,0 +1,6 @@
+{
+  "title": "musicForProgramming();",
+  "url": "https://musicforprogramming.net",
+  "feedUrl": "https://musicforprogramming.net/rss.xml",
+  "sling:resourceType": "wp/template/subscription"
+}

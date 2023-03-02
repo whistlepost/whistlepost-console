@@ -1,0 +1,6 @@
+{
+  "sling:resourceType": "wp/template/navigation",
+  "title": "Contents",
+  "sitemap": ["/content/wp-admin/sites"],
+  "defaultContentsPage": "/content/wp-admin/overview"
+}

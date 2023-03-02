@@ -1,0 +1,6 @@
+{
+  "title": "iHeartDogs.com",
+  "url": "https://iheartdogs.com",
+  "feedUrl": "https://iheartdogs.com/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

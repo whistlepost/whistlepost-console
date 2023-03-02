@@ -1,0 +1,5 @@
+{
+  "title": "Form Management",
+  "description": "Manage forms used to input data in applications",
+  "sling:resourceType": "wp/page/form-list"
+}

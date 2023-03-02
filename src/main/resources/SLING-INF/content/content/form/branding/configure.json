@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/template/branding/settings",
+  "title": "Branding Settings",
+  "titleKey": "brandingSettings",
+  "method": "POST",
+  "fields": [
+    "/content/form/controls/button/list/submit",
+    "/content/form/controls/link/list/cancel"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Kotaku",
+  "url": "https://kotaku.com",
+  "feedUrl": "https://kotaku.com/rss",
+  "sling:resourceType": "wp/template/subscription"
+}

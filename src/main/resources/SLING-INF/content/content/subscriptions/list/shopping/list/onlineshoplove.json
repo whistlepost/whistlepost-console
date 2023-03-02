@@ -1,0 +1,6 @@
+{
+  "title": "OnlineShopLove.com",
+  "url": "https://onlineshoplove.com",
+  "feedUrl": "https://onlineshoplove.com/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

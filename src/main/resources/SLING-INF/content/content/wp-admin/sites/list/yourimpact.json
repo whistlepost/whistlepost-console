@@ -1,0 +1,6 @@
+{
+  "sling:resourceType": "wp/page/site",
+  "title": "YourImpact",
+  "layout": "",
+  "path": "/content/yourimpact"
+}

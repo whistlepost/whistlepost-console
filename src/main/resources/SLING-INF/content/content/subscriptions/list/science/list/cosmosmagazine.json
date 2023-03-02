@@ -1,0 +1,6 @@
+{
+  "title": "Cosmos Magazine",
+  "url": "https://cosmosmagazine.com",
+  "feedURL": "https://cosmosmagazine.com/feed",
+  "sling:resourceType": "wp/template/subscription"
+}

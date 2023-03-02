@@ -1,0 +1,6 @@
+{
+  "title": "Tripit Blog",
+  "url": "https://www.tripit.com/web/blog",
+  "feedUrl": "https://www.tripit.com/web/blog/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

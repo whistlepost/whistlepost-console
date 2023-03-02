@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wp/template/branding",
+  "image": "/assets/wp-content/images/masthead.png",
+  "logo": "/assets/wp-content/images/logo-60.png",
+  "alttext": "Welcome to Whistlepost",
+  "favicon": "/assets/images/wp-content/favicon.ico",
+  "alt_text": "Whistlepost masthead image",
+  "favicon_image": "/assets/images/wp-content/favicon.ico"
+}

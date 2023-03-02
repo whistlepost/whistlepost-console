@@ -1,0 +1,6 @@
+{
+  "sling:configRef": "/libs/conf/wp/folder/subscription",
+  "columns": [
+    "/content/wp-admin/view/table/columns/list/title"
+  ]
+}

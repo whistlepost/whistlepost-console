@@ -1,0 +1,5 @@
+{
+  "title":"Whistlepost - Articles",
+  "sling:resourceType":"wp/template/article-list",
+  "jcr:primaryType":"nt:unstructured"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Philosophize This!",
+  "url": "https://www.philosophizethis.org/",
+  "feedUrl": "https://philosophizethis.libsyn.com/rss",
+  "sling:resourceType": "wp/template/subscription"
+}

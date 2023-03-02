@@ -1,0 +1,6 @@
+{
+  "title": "Create Issue",
+  "method": "POST",
+  "path": "/repos/@owner@/@repository@/issues",
+  "sling:resourceType": "wp/include/integration/action"
+}

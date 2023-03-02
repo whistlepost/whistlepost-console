@@ -1,0 +1,6 @@
+{
+  "title": "CNET Video",
+  "url": "https://www.cnet.com/videos",
+  "feedUrl": "https://feed.cnet.com/feed/podcast/all/hd.xml",
+  "sling:resourceType": "wp/template/subscription"
+}

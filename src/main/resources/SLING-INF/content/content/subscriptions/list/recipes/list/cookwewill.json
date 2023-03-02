@@ -1,0 +1,6 @@
+{
+  "title": "COOK WE WILL",
+  "url": "https://cookwewill.com",
+  "feedUrl": "https://cookwewill.com/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

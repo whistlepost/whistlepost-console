@@ -1,0 +1,18 @@
+{
+  "sling:configs": {
+    "options": [
+      {
+        "text": "Female",
+        "value": "F"
+      },
+      {
+        "text": "Male",
+        "value": "M"
+      },
+      {
+        "text": "Not Specified",
+        "value": "X"
+      }
+    ]
+  }
+}

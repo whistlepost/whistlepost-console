@@ -1,0 +1,9 @@
+{
+  "sling:resourceType": "wp/extensions/jira/create-issue",
+  "title": "Create Subtask",
+  "method": "POST",
+  "path": "/issue",
+  "body": "",
+  "successPath": "/content/wp-admin/extensions/productivity/list/jira/list-issues",
+  "errorPath": "/content/wp-admin/extensions/productivity/list/jira/list-issues"
+}

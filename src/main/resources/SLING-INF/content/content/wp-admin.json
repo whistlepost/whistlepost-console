@@ -1,0 +1,6 @@
+{
+  "sling:configRef": "/libs/conf/wp/sites",
+  "security:acl": [
+    { "principal": "everyone", "denied": ["jcr:read"] }
+  ]
+}

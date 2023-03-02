@@ -1,0 +1,6 @@
+{
+  "title": "GameSpot",
+  "url": "https://www.gamespot.com",
+  "feedUrl": "https://www.gamespot.com/feeds/mashup",
+  "sling:resourceType": "wp/template/subscription"
+}

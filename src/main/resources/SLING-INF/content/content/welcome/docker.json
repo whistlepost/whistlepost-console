@@ -1,0 +1,15 @@
+{
+  "title":"Docker",
+  "description": "Using Docker with Whistlepost",
+  "sling:resourceType":"wp/template/page",
+  "jcr:primaryType":"nt:unstructured",
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "pars": [
+        "Containerisation can help with improved efficiency and resiliency of workloads through inherent abilities such as rapid horizontal scaling.",
+        "Whistlepost is optimized for Docker containerisation, which also leads to improved portability and development of Whistlepost-based applications."
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "title": "How-To Geek",
+  "url": "https://howtogeek.com",
+  "feedUrl": "http://feeds.howtogeek.com/HowToGeek",
+  "sling:resourceType": "wp/template/subscription"
+}

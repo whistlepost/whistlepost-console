@@ -1,0 +1,6 @@
+{
+  "title": "pouet.net: your online demoscene resource",
+  "url": "https://www.pouet.net/",
+  "feedUrl": "https://www.pouet.net/export/lastprodsadded.rss.php",
+  "sling:resourceType": "wp/template/subscription"
+}

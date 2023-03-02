@@ -1,0 +1,13 @@
+{
+  "sling:resourceType": "wp/page/option-list",
+  "optionValue": [
+    "M",
+    "F",
+    "N"
+  ],
+  "optionText": [
+    "Male",
+    "Female",
+    "Gender Non-conforming"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sFolderType",
+  "name": "folderType",
+  "labelKey": "folderType",
+  "sling:resourceType": "wp/component/form/select",
+  "sling:configRef": "/libs/conf/wp/form/select/folderType"
+}

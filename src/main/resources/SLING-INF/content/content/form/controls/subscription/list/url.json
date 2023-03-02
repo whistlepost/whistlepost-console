@@ -1,0 +1,8 @@
+{
+  "sling:resourceType": "wp/component/form/textfield",
+  "id": "urlField",
+  "name": "url",
+  "labelKey": "url",
+  "sling:configRef": "/libs/conf/wp/form/textfield/url",
+  "required": true
+}

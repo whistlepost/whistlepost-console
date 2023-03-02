@@ -1,0 +1,6 @@
+{
+  "title": "TechSpot",
+  "url": "https://www.techspot.com",
+  "feedUrl": "https://www.techspot.com/backend.xml",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Terraform Cloud API",
+  "url": "https://app.terraform.io",
+  "apiUrl": "https://app.terraform.io/api/v2"
+}

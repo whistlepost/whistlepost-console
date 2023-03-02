@@ -1,0 +1,3 @@
+{
+  "sling:configRef": "/libs/conf/wp/sites/welcome"
+}

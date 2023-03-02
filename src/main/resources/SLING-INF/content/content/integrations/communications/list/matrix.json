@@ -1,0 +1,5 @@
+{
+  "title": "Matrix Client-Server API",
+  "url": "https://www.matrix.org",
+  "apiUrl": "https://matrix.example.com/_matrix/client/v3"
+}

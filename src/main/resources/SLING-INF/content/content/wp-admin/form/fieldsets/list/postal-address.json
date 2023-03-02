@@ -1,0 +1,10 @@
+{
+  "legend": "Postal Address",
+  "fields": [
+    "street-number",
+    "street-name",
+    "city",
+    "country",
+    "postcode"
+  ]
+}

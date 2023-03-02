@@ -1,0 +1,6 @@
+{
+  "title": "Tiny Buddha",
+  "url": "https://tinybuddha.com/blog-posts/",
+  "feedUrl": "https://feeds.feedburner.com/tinybuddha",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,5 @@
+{
+  "sling:resourceType": "wp/template/folder",
+  "title": "Pets",
+  "form": "/content/form/folder/edit"
+}

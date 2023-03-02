@@ -1,0 +1,10 @@
+{
+  "sling:resourceType": "wp/Robots/settings",
+  "title": "Robots Settings",
+  "titleKey": "robotsSettings",
+  "method": "POST",
+  "fields": [
+    "/content/form/controls/button/list/submit",
+    "/content/form/controls/link/list/cancel"
+  ]
+}

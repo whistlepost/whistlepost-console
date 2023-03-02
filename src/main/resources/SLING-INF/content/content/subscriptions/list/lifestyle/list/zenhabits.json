@@ -1,0 +1,6 @@
+{
+  "title": "zen habits",
+  "url": "https://zenhabits.net",
+  "feedUrl": "https://zenhabits.net/feed/",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,16 @@
+{
+  "sling:resourceType": "wp/form/add-content.edit",
+  "titleKey": "categoryEdit",
+  "controls": [
+    "/content/form/contols/general/list/title"
+  ],
+  "input": {
+    "sling:resourceType": "sling/validation/model",
+    "validatingResourceType": "",
+    "applicablePaths": [],
+    "properties": {
+      "title": {}
+    },
+    "children": {}
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "title":"Whistlepost Administration",
+  "description": "The homepage for Whistlepost configuration and management",
+  "sling:resourceType":"wp/template/page"
+}

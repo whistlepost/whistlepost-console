@@ -1,0 +1,5 @@
+{
+  "title": "MET Norway",
+  "url": "https://www.met.no",
+  "apiUrl": "https://api.met.no/weatherapi/locationforecast/2.0"
+}

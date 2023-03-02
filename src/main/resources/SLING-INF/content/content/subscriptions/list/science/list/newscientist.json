@@ -1,0 +1,6 @@
+{
+  "title": "New Scientist",
+  "url": "https://www.newscientist.com",
+  "feedURL": "https://www.newscientist.com/feed/home/?cmpid=RSS%7CNSNS-Home",
+  "sling:resourceType": "wp/template/subscription"
+}

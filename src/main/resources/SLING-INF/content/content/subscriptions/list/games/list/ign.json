@@ -1,0 +1,6 @@
+{
+  "title": "IGN",
+  "url": "https://www.ign.com/",
+  "feedUrl": "http://feeds.ign.com/ign/games-all",
+  "sling:resourceType": "wp/template/subscription"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "View Management",
+  "description": "Manage views used to render dynamic data from extensions",
+  "sling:resourceType": "wp/page/view-list"
+}

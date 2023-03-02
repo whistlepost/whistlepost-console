@@ -1,0 +1,5 @@
+{
+  "title": "Gender",
+  "optionList": "/content/wp-admin/controls/options/list/gender",
+  "sling:resourceType": "wp/component/form/select"
+}

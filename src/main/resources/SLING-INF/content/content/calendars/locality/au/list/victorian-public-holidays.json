@@ -1,0 +1,6 @@
+{
+  "title": "Victorian Public Holidays",
+  "url": "https://business.vic.gov.au/business-information/public-holidays/victorian-public-holidays-2021",
+  "scheduleUrl": "https://www.vic.gov.au/sites/default/files/2021-09/Victorian-public-holiday-dates.ics",
+  "sling:resourceType": "wp/schedule"
+}
